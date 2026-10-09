@@ -1,0 +1,5192 @@
+[
+  {
+    "id": "sd-1",
+    "text": "นักเรียนทั้งหมด ทำความเคารพ",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-2",
+    "text": "สวัสดีครับ นั่งลงได้ครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-3",
+    "text": "เงียบๆ หน่อยครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-4",
+    "text": "หยุดคุยกันได้แล้วครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-5",
+    "text": "ฟังครูนะ ครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-6",
+    "text": "มองมาที่กระดาน",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-7",
+    "text": "นั่งที่ให้เรียบร้อยครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-8",
+    "text": "กลับไปที่นั่งของคุณ เดี๋ยวนี้",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-9",
+    "text": "เก็บโทรศัพท์มือถือเดี๋ยวนี้ครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-10",
+    "text": "ห้ามกินขนมในห้องเรียนครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-11",
+    "text": "อย่าวิ่งในห้องเรียน",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-12",
+    "text": "ทำไมมาสายครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-13",
+    "text": "ตั้งใจฟังนะครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-14",
+    "text": "ห้ามส่งเสียงดัง",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-15",
+    "text": "เข้าแถวให้เรียบร้อย",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-16",
+    "text": "อย่าเล่นโทรศัพท์ในเวลาเรียน",
+    "type": "phrase"
+  },
+  {
+    "id": "sd-17",
+    "text": "ช่วยกันทำความสะอาดห้องเรียน",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-1",
+    "text": "เปิดหนังสือไปที่หน้า...",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-2",
+    "text": "เอาสมุดขึ้นมาครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-3",
+    "text": "จดลงไปในสมุดด้วยครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-4",
+    "text": "ทำแบบฝึกหัดข้อหนึ่งถึงห้า",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-5",
+    "text": "อ่านพร้อมกันดังๆ ครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-6",
+    "text": "อ่านตามครูนะ ครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-7",
+    "text": "จับคู่กันสองคนครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-8",
+    "text": "แบ่งกลุ่ม กลุ่มละสี่คน",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-9",
+    "text": "เข้าใจไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-10",
+    "text": "มีคำถามไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-11",
+    "text": "ใครเสร็จแล้ว ยกมือขึ้นครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-12",
+    "text": "ยังไม่เสร็จ ยกมือขึ้น",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-13",
+    "text": "ส่งการบ้านที่โต๊ะครูครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-14",
+    "text": "เก่งมาก! / ดีมาก!",
+    "type": "phrase"
+  },
+  {
+    "id": "sl-15",
+    "text": "หมดเวลาแล้วครับ หัวหน้าบอก",
+    "type": "phrase"
+  },
+  {
+    "id": "sc-1",
+    "text": "ขอโทษครับ ห้องพักครูอยู่ที่ไหนครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sc-2",
+    "text": "วันนี้ผมมีสอนห้องไหนบ้างครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sc-3",
+    "text": "เครื่องปริ้นท์ใช้งานยังไงครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sc-4",
+    "text": "กระดาษหมด ขอเบิกกระดาษได้ที่ไหนครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sc-5",
+    "text": "วันนี้มีประชุมครูไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sc-6",
+    "text": "มีคาบสอนแทนไหมครับวันนี้",
+    "type": "phrase"
+  },
+  {
+    "id": "sc-7",
+    "text": "ไปกินข้าวด้วยกันไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sc-8",
+    "text": "ช่วยเซ็นเอกสารนี้ให้หน่อยได้ไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "fh-1",
+    "text": "กลับบ้านกี่โมงครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "fh-2",
+    "text": "วันนี้กินอะไรกันดีครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "fh-3",
+    "text": "ผมซื้อกับข้าวมาแล้วครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "fh-4",
+    "text": "เหนื่อยไหมครับวันนี้",
+    "type": "phrase"
+  },
+  {
+    "id": "fh-5",
+    "text": "อยากไปไหนไหมสุดสัปดาห์นี้",
+    "type": "phrase"
+  },
+  {
+    "id": "fh-6",
+    "text": "ไปซื้อของที่บิ๊กซี / โลตัสกันไหม",
+    "type": "phrase"
+  },
+  {
+    "id": "fh-7",
+    "text": "ช่วยหยิบน้ำให้หน่อยได้ไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "fh-8",
+    "text": "ขอบคุณมากครับที่รัก",
+    "type": "phrase"
+  },
+  {
+    "id": "fk-1",
+    "text": "ลูกกินข้าวหรือยังครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "fk-2",
+    "text": "ลูกนอนหลับแล้วหรือยัง",
+    "type": "phrase"
+  },
+  {
+    "id": "fk-3",
+    "text": "เดี๋ยวผมไปส่งลูกเองครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "fk-4",
+    "text": "เดี๋ยวผมไปรับลูกเองครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "fk-5",
+    "text": "ช่วยดูลูกแป๊บนึงได้ไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "fk-6",
+    "text": "ระวังล้มนะลูก",
+    "type": "phrase"
+  },
+  {
+    "id": "fk-7",
+    "text": "อย่าจับ อันนี้อันตรายครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "fk-8",
+    "text": "ไปอาบน้ำได้แล้วครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "fk-9",
+    "text": "แปรงฟันหรือยังครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "fk-10",
+    "text": "เก่งมากคนเก่ง",
+    "type": "phrase"
+  },
+  {
+    "id": "sf-1",
+    "text": "อันนี้เผ็ดไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sf-2",
+    "text": "ไม่เอาเผ็ดเลยครับ / ไม่เผ็ดครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sf-3",
+    "text": "เผ็ดนิดเดียวพอครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sf-4",
+    "text": "ใส่ถุงกลับบ้านครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sf-5",
+    "text": "กินที่นี่ครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sf-6",
+    "text": "เช็คบิลด้วยครับ / เก็บเงินด้วยครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sf-7",
+    "text": "สแกนจ่ายได้ไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sf-8",
+    "text": "ไม่รับถุงพลาสติกครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sf-9",
+    "text": "อุ่นร้อนด้วยครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sf-10",
+    "text": "ขอน้ำแข็งเปล่าแก้วหนึ่งครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sf-11",
+    "text": "มีโปรโมชั่นอะไรไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "sf-12",
+    "text": "ทั้งหมดเท่าไหร่ครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qg-1",
+    "text": "สบายดีไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qg-2",
+    "text": "เป็นไงบ้างครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qg-3",
+    "text": "ไปไหนครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qg-4",
+    "text": "ไปไหนมาครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qg-5",
+    "text": "กินข้าวหรือยังครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qg-6",
+    "text": "เหนื่อยไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qg-7",
+    "text": "ทำอะไรอยู่ครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qg-8",
+    "text": "วันนี้ทำอะไรบ้างครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qp-1",
+    "text": "ตอนนี้ว่างไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qp-2",
+    "text": "เจอกันกี่โมงดีครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qp-3",
+    "text": "เลิกงานกี่โมงครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qp-4",
+    "text": "จะกลับเมื่อไหร่ครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qp-5",
+    "text": "มีเวลาคุยแป๊บนึงไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qp-6",
+    "text": "พรุ่งนี้ว่างไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qp-7",
+    "text": "ไปด้วยกันไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qp-8",
+    "text": "เสร็จหรือยังครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qc-1",
+    "text": "ไปไหนดีครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qc-2",
+    "text": "กินอะไรดีครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qc-3",
+    "text": "อยากกินอะไรครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qc-4",
+    "text": "ชอบไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qc-5",
+    "text": "คิดว่ายังไงครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qc-6",
+    "text": "อร่อยไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qc-7",
+    "text": "เผ็ดไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qc-8",
+    "text": "คิดอะไรอยู่ครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qc-9",
+    "text": "เอาอีกไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qpe-1",
+    "text": "คุณชื่ออะไรครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qpe-2",
+    "text": "เป็นคนแถวไหนครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qpe-3",
+    "text": "มาจากไหนครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qpe-4",
+    "text": "อายุเท่าไหร่ครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qpe-5",
+    "text": "พักอยู่ที่ไหนครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qpe-6",
+    "text": "ทำงานอะไรครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qpe-7",
+    "text": "มาคนเดียวเหรอครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qpe-8",
+    "text": "อยู่ที่นี่นานหรือยังครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qpe-9",
+    "text": "พูดภาษาอังกฤษได้ไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qpe-10",
+    "text": "มีแฟนหรือยังครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qpe-11",
+    "text": "ขอไลน์หน่อยได้ไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qcl-1",
+    "text": "พูดว่าอะไรนะครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qcl-2",
+    "text": "เข้าใจไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qcl-3",
+    "text": "จริงเหรอครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qcl-4",
+    "text": "จริงไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qcl-5",
+    "text": "เป็นอะไรหรือเปล่าครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qcl-6",
+    "text": "เกิดอะไรขึ้นครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qcl-7",
+    "text": "ทำไมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qcl-8",
+    "text": "อันนี้ภาษาไทยเรียกว่าอะไรครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qcl-9",
+    "text": "ช่วยหน่อยได้ไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qcl-10",
+    "text": "ขอถามอะไรหน่อยได้ไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-1",
+    "text": "ห้องน้ำอยู่ที่ไหนครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-2",
+    "text": "ราคาเท่าไหร่ครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-3",
+    "text": "อันนี้กี่บาทครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-4",
+    "text": "ลดหน่อยได้ไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-5",
+    "text": "สแกนจ่ายได้ไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-6",
+    "text": "ได้ไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-7",
+    "text": "มีอันนี้ไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-8",
+    "text": "กี่คนครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-9",
+    "text": "กี่อันครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-10",
+    "text": "ใครครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-11",
+    "text": "ของใครครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-12",
+    "text": "อยู่ที่ไหนครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-13",
+    "text": "ไกลจากที่นี่ไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "qn-14",
+    "text": "มีทอนไหมครับ",
+    "type": "phrase"
+  },
+  {
+    "id": "w-sp-1",
+    "text": "ครู",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-2",
+    "text": "นักเรียน",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-3",
+    "text": "เพื่อน",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-4",
+    "text": "เด็ก",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-5",
+    "text": "ผู้อำนวยการ",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-6",
+    "text": "หัวหน้าห้อง",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-7",
+    "text": "ครูประจำชั้น",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-8",
+    "text": "อาจารย์",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-9",
+    "text": "ครูต่างชาติ",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-10",
+    "text": "ผู้ปกครอง",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-11",
+    "text": "พี่",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-12",
+    "text": "น้อง",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-13",
+    "text": "เวรประจำวัน",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-14",
+    "text": "แม่บ้าน",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-15",
+    "text": "ยาม",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-16",
+    "text": "แม่ค้า",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-17",
+    "text": "พยาบาล",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-18",
+    "text": "กลุ่ม",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-19",
+    "text": "คู่",
+    "type": "word"
+  },
+  {
+    "id": "w-sp-20",
+    "text": "คน",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-1",
+    "text": "ห้องเรียน",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-2",
+    "text": "กระดาน",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-3",
+    "text": "หนังสือ",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-4",
+    "text": "สมุด",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-5",
+    "text": "ปากกา",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-6",
+    "text": "ดินสอ",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-7",
+    "text": "โต๊ะ",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-8",
+    "text": "เก้าอี้",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-9",
+    "text": "กระเป๋า",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-10",
+    "text": "หน้า",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-11",
+    "text": "การบ้าน",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-12",
+    "text": "ข้อสอบ",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-13",
+    "text": "คะแนน",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-14",
+    "text": "ประตู",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-15",
+    "text": "หน้าต่าง",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-16",
+    "text": "พัดลม",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-17",
+    "text": "แอร์",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-18",
+    "text": "ยางลบ",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-19",
+    "text": "ไม้บรรทัด",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-20",
+    "text": "กรรไกร",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-21",
+    "text": "กาว",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-22",
+    "text": "สี",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-23",
+    "text": "กระดาษ",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-24",
+    "text": "ใบงาน",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-25",
+    "text": "แบบฝึกหัด",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-26",
+    "text": "ปากกาไวท์บอร์ด",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-27",
+    "text": "แปรงลบกระดาน",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-28",
+    "text": "ชอล์ก",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-29",
+    "text": "โปรเจกเตอร์",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-30",
+    "text": "จอ",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-31",
+    "text": "ไมโครโฟน",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-32",
+    "text": "ลำโพง",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-33",
+    "text": "คอมพิวเตอร์",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-34",
+    "text": "สายชาร์จ",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-35",
+    "text": "ปลั๊กไฟ",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-36",
+    "text": "ไฟ",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-37",
+    "text": "นาฬิกา",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-38",
+    "text": "กริ่ง",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-39",
+    "text": "ธงชาติ",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-40",
+    "text": "บัตรคำ",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-41",
+    "text": "เกม",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-42",
+    "text": "เพลง",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-43",
+    "text": "รูปภาพ",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-44",
+    "text": "คำศัพท์",
+    "type": "word"
+  },
+  {
+    "id": "w-sn-45",
+    "text": "ประโยค",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-1",
+    "text": "โรงเรียน",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-2",
+    "text": "ห้องพักครู",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-3",
+    "text": "โรงอาหาร",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-4",
+    "text": "ห้องสมุด",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-5",
+    "text": "ห้องพยาบาล",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-6",
+    "text": "สนามฟุตบอล",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-7",
+    "text": "สนามเด็กเล่น",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-8",
+    "text": "เสาธง",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-9",
+    "text": "โรงยิม",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-10",
+    "text": "ห้องน้ำครู",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-11",
+    "text": "ห้องน้ำนักเรียน",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-12",
+    "text": "ลานจอดรถ",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-13",
+    "text": "ทางเดิน",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-14",
+    "text": "บันได",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-15",
+    "text": "ชั้น",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-16",
+    "text": "ชั้นหนึ่ง",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-17",
+    "text": "ชั้นสอง",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-18",
+    "text": "ชั้นสาม",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-19",
+    "text": "ห้อง ผอ.",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-20",
+    "text": "ห้องวิชาการ",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-21",
+    "text": "ห้องธุรการ",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-22",
+    "text": "สหกรณ์",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-23",
+    "text": "หน้าห้อง",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-24",
+    "text": "หลังห้อง",
+    "type": "word"
+  },
+  {
+    "id": "w-spl-25",
+    "text": "ข้างนอก",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-1",
+    "text": "ฟัง",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-2",
+    "text": "ดู",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-3",
+    "text": "อ่าน",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-4",
+    "text": "เขียน",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-5",
+    "text": "พูด",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-6",
+    "text": "ถาม",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-7",
+    "text": "ตอบ",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-8",
+    "text": "เปิด",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-9",
+    "text": "ปิด",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-10",
+    "text": "นั่ง",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-11",
+    "text": "ยืน",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-12",
+    "text": "ยกมือ",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-13",
+    "text": "ส่ง",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-14",
+    "text": "เข้าใจ",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-15",
+    "text": "จำ",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-16",
+    "text": "ลืม",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-17",
+    "text": "หยุด",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-18",
+    "text": "เงียบ",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-19",
+    "text": "ตั้งใจ",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-20",
+    "text": "สอบ",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-21",
+    "text": "สอน",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-22",
+    "text": "เรียน",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-23",
+    "text": "ทำตาม",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-24",
+    "text": "อ่านตาม",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-25",
+    "text": "พูดตาม",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-26",
+    "text": "จด",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-27",
+    "text": "ลบ",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-28",
+    "text": "ขีดเส้นใต้",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-29",
+    "text": "วงกลม",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-30",
+    "text": "กาถูก",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-31",
+    "text": "กากบาท",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-32",
+    "text": "จับคู่",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-33",
+    "text": "แบ่งกลุ่ม",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-34",
+    "text": "เข้าแถว",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-35",
+    "text": "เคารพ",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-36",
+    "text": "ไหว้",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-37",
+    "text": "ตรวจ",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-38",
+    "text": "แก้",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-39",
+    "text": "นับ",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-40",
+    "text": "สะกด",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-41",
+    "text": "แปล",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-42",
+    "text": "ยกตัวอย่าง",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-43",
+    "text": "แจก",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-44",
+    "text": "เก็บ",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-45",
+    "text": "วิ่ง",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-46",
+    "text": "คุย",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-47",
+    "text": "เล่น",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-48",
+    "text": "แกล้ง",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-49",
+    "text": "หลับ",
+    "type": "word"
+  },
+  {
+    "id": "w-sv-50",
+    "text": "ปลุก",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-1",
+    "text": "ดี",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-2",
+    "text": "เก่ง",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-3",
+    "text": "ถูก",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-4",
+    "text": "ผิด",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-5",
+    "text": "ดัง",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-6",
+    "text": "เบา",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-7",
+    "text": "เรียบร้อย",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-8",
+    "text": "พร้อม",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-9",
+    "text": "ดื้อ",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-10",
+    "text": "ช้า",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-11",
+    "text": "เร็ว",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-12",
+    "text": "สาย",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-13",
+    "text": "ตรงเวลา",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-14",
+    "text": "ยาก",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-15",
+    "text": "ง่าย",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-16",
+    "text": "สวย",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-17",
+    "text": "สะอาด",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-18",
+    "text": "สกปรก",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-19",
+    "text": "สำคัญ",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-20",
+    "text": "อันตราย",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-21",
+    "text": "เงียบสงบ",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-22",
+    "text": "ซน",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-23",
+    "text": "ขยัน",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-24",
+    "text": "ขี้เกียจ",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-25",
+    "text": "ง่วง",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-26",
+    "text": "เหนื่อย",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-27",
+    "text": "ชัดเจน",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-28",
+    "text": "มั่นใจ",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-29",
+    "text": "อาย",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-30",
+    "text": "กล้า",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-31",
+    "text": "ยอดเยี่ยม",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-32",
+    "text": "พอใช้",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-33",
+    "text": "เต็ม",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-34",
+    "text": "ตก",
+    "type": "word"
+  },
+  {
+    "id": "w-sa-35",
+    "text": "ผ่าน",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-1",
+    "text": "หนึ่ง",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-2",
+    "text": "สอง",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-3",
+    "text": "สาม",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-4",
+    "text": "สี่",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-5",
+    "text": "ห้า",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-6",
+    "text": "หก",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-7",
+    "text": "เจ็ด",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-8",
+    "text": "แปด",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-9",
+    "text": "เก้า",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-10",
+    "text": "สิบ",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-11",
+    "text": "ยี่สิบ",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-12",
+    "text": "สามสิบ",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-13",
+    "text": "ห้าสิบ",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-14",
+    "text": "ร้อย",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-15",
+    "text": "นาที",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-16",
+    "text": "ชั่วโมง",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-17",
+    "text": "คาบ",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-18",
+    "text": "พัก",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-19",
+    "text": "พักเที่ยง",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-20",
+    "text": "ตอนนี้",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-21",
+    "text": "วันนี้",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-22",
+    "text": "พรุ่งนี้",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-23",
+    "text": "เมื่อวาน",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-24",
+    "text": "เช้า",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-25",
+    "text": "เที่ยง",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-26",
+    "text": "บ่าย",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-27",
+    "text": "เย็น",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-28",
+    "text": "วันจันทร์",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-29",
+    "text": "วันอังคาร",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-30",
+    "text": "วันพุธ",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-31",
+    "text": "วันพฤหัสบดี",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-32",
+    "text": "วันศุกร์",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-33",
+    "text": "วันเสาร์",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-34",
+    "text": "วันอาทิตย์",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-35",
+    "text": "สุดสัปดาห์",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-36",
+    "text": "สัปดาห์",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-37",
+    "text": "เดือน",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-38",
+    "text": "เทอม",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-39",
+    "text": "ปิดเทอม",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-40",
+    "text": "ก่อน",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-41",
+    "text": "หลัง",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-42",
+    "text": "เสร็จ",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-43",
+    "text": "หมดเวลา",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-44",
+    "text": "เริ่ม",
+    "type": "word"
+  },
+  {
+    "id": "w-nt-45",
+    "text": "เลิกเรียน",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-1",
+    "text": "ไป",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-2",
+    "text": "มา",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-3",
+    "text": "ทำ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-4",
+    "text": "กิน",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-5",
+    "text": "ดื่ม",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-6",
+    "text": "เอา",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-7",
+    "text": "อยาก",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-8",
+    "text": "ชอบ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-9",
+    "text": "มี",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-10",
+    "text": "ให้",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-11",
+    "text": "รอ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-12",
+    "text": "ช่วย",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-13",
+    "text": "ต้อง",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-14",
+    "text": "ได้",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-15",
+    "text": "ห้าม",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-16",
+    "text": "อย่า",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-17",
+    "text": "ขอ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-18",
+    "text": "บอก",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-19",
+    "text": "รู้",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-20",
+    "text": "รู้จัก",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-21",
+    "text": "คิด",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-22",
+    "text": "เห็น",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-23",
+    "text": "ได้ยิน",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-24",
+    "text": "หา",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-25",
+    "text": "เจอ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-26",
+    "text": "ซื้อ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-27",
+    "text": "ขาย",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-28",
+    "text": "จ่าย",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-29",
+    "text": "กลับ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-30",
+    "text": "เข้า",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-31",
+    "text": "ออก",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-32",
+    "text": "ขึ้น",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-33",
+    "text": "ลง",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-34",
+    "text": "เดิน",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-35",
+    "text": "นั่งรถ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-36",
+    "text": "ขับรถ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-37",
+    "text": "ซ่อม",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-38",
+    "text": "ใช้",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-39",
+    "text": "โทร",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-40",
+    "text": "ปริ้นท์",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-1",
+    "text": "ข้าว",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-2",
+    "text": "กับข้าว",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-3",
+    "text": "ไก่",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-4",
+    "text": "หมู",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-5",
+    "text": "ไข่ดาว",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-6",
+    "text": "ไข่เจียว",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-7",
+    "text": "ผัก",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-8",
+    "text": "ผลไม้",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-9",
+    "text": "เผ็ด",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-10",
+    "text": "ไม่เผ็ด",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-11",
+    "text": "หวาน",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-12",
+    "text": "อร่อย",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-13",
+    "text": "จาน",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-14",
+    "text": "ช้อน",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-15",
+    "text": "ส้อม",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-16",
+    "text": "แก้ว",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-17",
+    "text": "น้ำแข็ง",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-18",
+    "text": "ป่วย",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-19",
+    "text": "ปวดหัว",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-20",
+    "text": "ปวดท้อง",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-21",
+    "text": "เป็นไข้",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-22",
+    "text": "ยา",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-23",
+    "text": "ร้อน",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-24",
+    "text": "หนาว",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-25",
+    "text": "อิ่ม",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-1",
+    "text": "ครับ",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-2",
+    "text": "ค่ะ",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-3",
+    "text": "คะ",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-4",
+    "text": "นะ",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-5",
+    "text": "ไหม",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-6",
+    "text": "หรือยัง",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-7",
+    "text": "แล้ว",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-8",
+    "text": "ยัง",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-9",
+    "text": "กำลัง",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-10",
+    "text": "จะ",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-11",
+    "text": "ไม่",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-12",
+    "text": "และ",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-13",
+    "text": "แต่",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-14",
+    "text": "เพราะว่า",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-15",
+    "text": "ถ้า",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-16",
+    "text": "ก็",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-17",
+    "text": "ด้วย",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-18",
+    "text": "ด้วยกัน",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-19",
+    "text": "มาก",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-20",
+    "text": "นิดหน่อย",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-21",
+    "text": "เลย",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-22",
+    "text": "ที่ไหน",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-23",
+    "text": "อะไร",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-24",
+    "text": "ใคร",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-25",
+    "text": "ทำไม",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-1",
+    "text": "น้ำ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-2",
+    "text": "ห้องน้ำ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-3",
+    "text": "มือถือ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-4",
+    "text": "ขยะ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-5",
+    "text": "ถังขยะ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-6",
+    "text": "เวลา",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-7",
+    "text": "เงิน",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-8",
+    "text": "ของ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-9",
+    "text": "บ้าน",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-10",
+    "text": "รถ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-11",
+    "text": "มอเตอร์ไซค์",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-12",
+    "text": "รองเท้า",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-13",
+    "text": "ถุงเท้า",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-14",
+    "text": "เสื้อ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-15",
+    "text": "กางเกง",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-16",
+    "text": "ร่ม",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-17",
+    "text": "ฝน",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-18",
+    "text": "แดด",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-19",
+    "text": "กุญแจ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-20",
+    "text": "เอกสาร",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-1",
+    "text": "ซอย",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-2",
+    "text": "ถนน",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-3",
+    "text": "สี่แยก",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-4",
+    "text": "ไฟแดง",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-5",
+    "text": "สะพาน",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-6",
+    "text": "ทางด่วน",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-7",
+    "text": "ปั๊มน้ำมัน",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-8",
+    "text": "น้ำมัน",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-9",
+    "text": "หมวกกันน็อค",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-10",
+    "text": "รถเมล์",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-11",
+    "text": "แท็กซี่",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-12",
+    "text": "วินมอเตอร์ไซค์",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-13",
+    "text": "รถไฟฟ้า",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-14",
+    "text": "รถไฟใต้ดิน",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-15",
+    "text": "สนามบิน",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-16",
+    "text": "สถานี",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-17",
+    "text": "ตลาด",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-18",
+    "text": "ห้าง",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-19",
+    "text": "โรงพยาบาล",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-20",
+    "text": "คอนโด",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-21",
+    "text": "อพาร์ตเมนต์",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-22",
+    "text": "สระว่ายน้ำ",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-23",
+    "text": "ทางเข้า",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-24",
+    "text": "ทางออก",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-25",
+    "text": "ที่จอดรถ",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-26",
+    "text": "เลี้ยวซ้าย",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-27",
+    "text": "เลี้ยวขวา",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-28",
+    "text": "ตรงไป",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-29",
+    "text": "กลับรถ",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-30",
+    "text": "ติดไฟแดง",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-31",
+    "text": "รถติด",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-32",
+    "text": "ทางลัด",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-33",
+    "text": "ปากซอย",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-34",
+    "text": "ท้ายซอย",
+    "type": "word"
+  },
+  {
+    "id": "w-ct-35",
+    "text": "ทางม้าลาย",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-1",
+    "text": "สนุก",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-2",
+    "text": "สบาย",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-3",
+    "text": "สวย",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-4",
+    "text": "หล่อ",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-5",
+    "text": "น่ารัก",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-6",
+    "text": "ใจดี",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-7",
+    "text": "เกรงใจ",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-8",
+    "text": "สบายใจ",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-9",
+    "text": "ตกใจ",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-10",
+    "text": "โกรธ",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-11",
+    "text": "เสียใจ",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-12",
+    "text": "ดีใจ",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-13",
+    "text": "ง่วง",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-14",
+    "text": "เบื่อ",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-15",
+    "text": "เหงา",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-16",
+    "text": "อาย",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-17",
+    "text": "จริง",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-18",
+    "text": "โกหก",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-19",
+    "text": "แน่นอน",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-20",
+    "text": "แน่ใจ",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-21",
+    "text": "น่าสนใจ",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-22",
+    "text": "ตลก",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-23",
+    "text": "แปลก",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-24",
+    "text": "ถูกต้อง",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-25",
+    "text": "ผิด",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-26",
+    "text": "อันตราย",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-27",
+    "text": "ปลอดภัย",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-28",
+    "text": "โชคดี",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-29",
+    "text": "สงสาร",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-30",
+    "text": "คิดถึง",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-31",
+    "text": "ห่วง",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-32",
+    "text": "ใจเย็น",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-33",
+    "text": "ร้อนใจ",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-34",
+    "text": "ขี้เกียจ",
+    "type": "word"
+  },
+  {
+    "id": "w-fd-35",
+    "text": "เก่ง",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-41",
+    "text": "รอ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-42",
+    "text": "รีบ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-43",
+    "text": "ช่วย",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-44",
+    "text": "ลืม",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-45",
+    "text": "จำ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-46",
+    "text": "รู้",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-47",
+    "text": "หา",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-48",
+    "text": "เจอ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-49",
+    "text": "หาย",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-50",
+    "text": "ลอง",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-51",
+    "text": "ใช้",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-52",
+    "text": "ซ่อม",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-53",
+    "text": "ส่ง",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-54",
+    "text": "รับ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-55",
+    "text": "โทร",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-56",
+    "text": "สั่ง",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-57",
+    "text": "จ่าย",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-58",
+    "text": "ทอน",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-59",
+    "text": "ซื้อ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-60",
+    "text": "ขาย",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-61",
+    "text": "ลด",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-62",
+    "text": "เพิ่ม",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-63",
+    "text": "เปลี่ยน",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-64",
+    "text": "ย้าย",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-65",
+    "text": "พัก",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-66",
+    "text": "ตื่น",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-67",
+    "text": "นอน",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-68",
+    "text": "อาบน้ำ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-69",
+    "text": "แปรงฟัน",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-70",
+    "text": "สระผม",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-71",
+    "text": "ล้าง",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-72",
+    "text": "เช็ด",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-73",
+    "text": "เปิด",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-74",
+    "text": "ปิด",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-75",
+    "text": "ดึง",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-76",
+    "text": "ผลัก",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-77",
+    "text": "กด",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-78",
+    "text": "ใส่",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-79",
+    "text": "ถอด",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-80",
+    "text": "ทิ้ง",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-81",
+    "text": "เก็บ",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-82",
+    "text": "วาง",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-83",
+    "text": "ยก",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-84",
+    "text": "ยิ้ม",
+    "type": "word"
+  },
+  {
+    "id": "w-dv-85",
+    "text": "หัวเราะ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-21",
+    "text": "แอร์",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-22",
+    "text": "พัดลม",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-23",
+    "text": "ตู้เย็น",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-24",
+    "text": "เครื่องซักผ้า",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-25",
+    "text": "ไมโครเวฟ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-26",
+    "text": "เตียง",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-27",
+    "text": "หมอน",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-28",
+    "text": "ผ้าห่ม",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-29",
+    "text": "ผ้าเช็ดตัว",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-30",
+    "text": "สบู่",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-31",
+    "text": "แชมพู",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-32",
+    "text": "ยาสีฟัน",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-33",
+    "text": "แปรงสีฟัน",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-34",
+    "text": "ทิชชู่",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-35",
+    "text": "คีย์การ์ด",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-36",
+    "text": "ปลั๊กไฟ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-37",
+    "text": "สายชาร์จ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-38",
+    "text": "แบตเตอรี่",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-39",
+    "text": "พัสดุ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-40",
+    "text": "กล่อง",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-41",
+    "text": "ซอง",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-42",
+    "text": "ใบเสร็จ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-43",
+    "text": "บิล",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-44",
+    "text": "กระเป๋า",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-45",
+    "text": "กระเป๋าตังค์",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-46",
+    "text": "แว่นตา",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-47",
+    "text": "มีด",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-48",
+    "text": "ช้อน",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-49",
+    "text": "ส้อม",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-50",
+    "text": "ตะเกียบ",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-51",
+    "text": "จาน",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-52",
+    "text": "ชาม",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-53",
+    "text": "แก้ว",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-54",
+    "text": "ขวด",
+    "type": "word"
+  },
+  {
+    "id": "w-dn-55",
+    "text": "หลอด",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-26",
+    "text": "หมู",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-27",
+    "text": "ไก่",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-28",
+    "text": "เนื้อ",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-29",
+    "text": "กุ้ง",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-30",
+    "text": "ปลา",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-31",
+    "text": "ไข่",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-32",
+    "text": "ไข่ดาว",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-33",
+    "text": "ไข่เจียว",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-34",
+    "text": "ผัก",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-35",
+    "text": "พริก",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-36",
+    "text": "กระเทียม",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-37",
+    "text": "น้ำตาล",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-38",
+    "text": "เกลือ",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-39",
+    "text": "น้ำปลา",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-40",
+    "text": "ผงชูรส",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-41",
+    "text": "หวาน",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-42",
+    "text": "เปรี้ยว",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-43",
+    "text": "เค็ม",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-44",
+    "text": "ขม",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-45",
+    "text": "เผ็ด",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-46",
+    "text": "จืด",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-47",
+    "text": "ร้อน",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-48",
+    "text": "เย็น",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-49",
+    "text": "อุ่น",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-50",
+    "text": "น้ำแข็ง",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-51",
+    "text": "ปวดหัว",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-52",
+    "text": "ปวดท้อง",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-53",
+    "text": "ท้องเสีย",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-54",
+    "text": "ไข้",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-55",
+    "text": "หวัด",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-56",
+    "text": "ยา",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-57",
+    "text": "ยาพารา",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-58",
+    "text": "พลาสเตอร์",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-59",
+    "text": "แผล",
+    "type": "word"
+  },
+  {
+    "id": "w-fh-60",
+    "text": "หมอ",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-26",
+    "text": "เมื่อไหร่",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-27",
+    "text": "ที่ไหน",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-28",
+    "text": "อย่างไร",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-29",
+    "text": "เท่าไหร่",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-30",
+    "text": "กี่",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-31",
+    "text": "เพราะว่า",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-32",
+    "text": "แต่",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-33",
+    "text": "และ",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-34",
+    "text": "หรือ",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-35",
+    "text": "ถ้า",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-36",
+    "text": "ตอน",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-37",
+    "text": "ก่อน",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-38",
+    "text": "หลัง",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-39",
+    "text": "ด้วย",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-40",
+    "text": "เหมือนกัน",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-41",
+    "text": "ต่างกัน",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-42",
+    "text": "นิดหน่อย",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-43",
+    "text": "มาก",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-44",
+    "text": "เกินไป",
+    "type": "word"
+  },
+  {
+    "id": "w-gp-45",
+    "text": "เลย",
+    "type": "word"
+  },
+  {
+    "id": "snp-1",
+    "text": "นับ หนึ่ง สอง สาม... เงียบครับ!",
+    "type": "school_number"
+  },
+  {
+    "id": "snp-2",
+    "text": "เปิดหนังสือไปที่หน้าที่ 15 ครับ",
+    "type": "school_number"
+  },
+  {
+    "id": "snp-3",
+    "text": "ทำแบบฝึกหัดข้อ 1 ถึงข้อ 5 ครับ",
+    "type": "school_number"
+  },
+  {
+    "id": "snp-4",
+    "text": "จับคู่กัน 2 คนครับ",
+    "type": "school_number"
+  },
+  {
+    "id": "snp-5",
+    "text": "แบ่งกลุ่ม กลุ่มละ 4 คนครับ",
+    "type": "school_number"
+  },
+  {
+    "id": "snp-6",
+    "text": "เหลือเวลาอีก 5 นาทีครับ",
+    "type": "school_number"
+  },
+  {
+    "id": "snp-7",
+    "text": "เหลือเวลาอีก 10 นาที หมดเวลา",
+    "type": "school_number"
+  },
+  {
+    "id": "snp-8",
+    "text": "แบบทดสอบนี้ 10 คะแนนครับ",
+    "type": "school_number"
+  },
+  {
+    "id": "snp-9",
+    "text": "จานนี้ 40 บาทครับ",
+    "type": "school_number"
+  },
+  {
+    "id": "snp-10",
+    "text": "ทั้งหมด 65 บาทครับ",
+    "type": "school_number"
+  },
+  {
+    "id": "digit-0",
+    "text": "ศูนย์",
+    "type": "digit"
+  },
+  {
+    "id": "digit-1",
+    "text": "หนึ่ง",
+    "type": "digit"
+  },
+  {
+    "id": "digit-2",
+    "text": "สอง",
+    "type": "digit"
+  },
+  {
+    "id": "digit-3",
+    "text": "สาม",
+    "type": "digit"
+  },
+  {
+    "id": "digit-4",
+    "text": "สี่",
+    "type": "digit"
+  },
+  {
+    "id": "digit-5",
+    "text": "ห้า",
+    "type": "digit"
+  },
+  {
+    "id": "digit-6",
+    "text": "หก",
+    "type": "digit"
+  },
+  {
+    "id": "digit-7",
+    "text": "เจ็ด",
+    "type": "digit"
+  },
+  {
+    "id": "digit-8",
+    "text": "แปด",
+    "type": "digit"
+  },
+  {
+    "id": "digit-9",
+    "text": "เก้า",
+    "type": "digit"
+  },
+  {
+    "id": "num-1",
+    "text": "หนึ่ง",
+    "type": "number"
+  },
+  {
+    "id": "num-2",
+    "text": "สอง",
+    "type": "number"
+  },
+  {
+    "id": "num-3",
+    "text": "สาม",
+    "type": "number"
+  },
+  {
+    "id": "num-4",
+    "text": "สี่",
+    "type": "number"
+  },
+  {
+    "id": "num-5",
+    "text": "ห้า",
+    "type": "number"
+  },
+  {
+    "id": "num-6",
+    "text": "หก",
+    "type": "number"
+  },
+  {
+    "id": "num-7",
+    "text": "เจ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-8",
+    "text": "แปด",
+    "type": "number"
+  },
+  {
+    "id": "num-9",
+    "text": "เก้า",
+    "type": "number"
+  },
+  {
+    "id": "num-10",
+    "text": "สิบ",
+    "type": "number"
+  },
+  {
+    "id": "num-11",
+    "text": "สิบเอ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-12",
+    "text": "สิบสอง",
+    "type": "number"
+  },
+  {
+    "id": "num-13",
+    "text": "สิบสาม",
+    "type": "number"
+  },
+  {
+    "id": "num-14",
+    "text": "สิบสี่",
+    "type": "number"
+  },
+  {
+    "id": "num-15",
+    "text": "สิบห้า",
+    "type": "number"
+  },
+  {
+    "id": "num-16",
+    "text": "สิบหก",
+    "type": "number"
+  },
+  {
+    "id": "num-17",
+    "text": "สิบเจ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-18",
+    "text": "สิบแปด",
+    "type": "number"
+  },
+  {
+    "id": "num-19",
+    "text": "สิบเก้า",
+    "type": "number"
+  },
+  {
+    "id": "num-20",
+    "text": "ยี่สิบ",
+    "type": "number"
+  },
+  {
+    "id": "num-21",
+    "text": "ยี่สิบเอ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-22",
+    "text": "ยี่สิบสอง",
+    "type": "number"
+  },
+  {
+    "id": "num-23",
+    "text": "ยี่สิบสาม",
+    "type": "number"
+  },
+  {
+    "id": "num-24",
+    "text": "ยี่สิบสี่",
+    "type": "number"
+  },
+  {
+    "id": "num-25",
+    "text": "ยี่สิบห้า",
+    "type": "number"
+  },
+  {
+    "id": "num-26",
+    "text": "ยี่สิบหก",
+    "type": "number"
+  },
+  {
+    "id": "num-27",
+    "text": "ยี่สิบเจ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-28",
+    "text": "ยี่สิบแปด",
+    "type": "number"
+  },
+  {
+    "id": "num-29",
+    "text": "ยี่สิบเก้า",
+    "type": "number"
+  },
+  {
+    "id": "num-30",
+    "text": "สามสิบ",
+    "type": "number"
+  },
+  {
+    "id": "num-31",
+    "text": "สามสิบเอ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-32",
+    "text": "สามสิบสอง",
+    "type": "number"
+  },
+  {
+    "id": "num-33",
+    "text": "สามสิบสาม",
+    "type": "number"
+  },
+  {
+    "id": "num-34",
+    "text": "สามสิบสี่",
+    "type": "number"
+  },
+  {
+    "id": "num-35",
+    "text": "สามสิบห้า",
+    "type": "number"
+  },
+  {
+    "id": "num-36",
+    "text": "สามสิบหก",
+    "type": "number"
+  },
+  {
+    "id": "num-37",
+    "text": "สามสิบเจ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-38",
+    "text": "สามสิบแปด",
+    "type": "number"
+  },
+  {
+    "id": "num-39",
+    "text": "สามสิบเก้า",
+    "type": "number"
+  },
+  {
+    "id": "num-40",
+    "text": "สี่สิบ",
+    "type": "number"
+  },
+  {
+    "id": "num-41",
+    "text": "สี่สิบเอ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-42",
+    "text": "สี่สิบสอง",
+    "type": "number"
+  },
+  {
+    "id": "num-43",
+    "text": "สี่สิบสาม",
+    "type": "number"
+  },
+  {
+    "id": "num-44",
+    "text": "สี่สิบสี่",
+    "type": "number"
+  },
+  {
+    "id": "num-45",
+    "text": "สี่สิบห้า",
+    "type": "number"
+  },
+  {
+    "id": "num-46",
+    "text": "สี่สิบหก",
+    "type": "number"
+  },
+  {
+    "id": "num-47",
+    "text": "สี่สิบเจ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-48",
+    "text": "สี่สิบแปด",
+    "type": "number"
+  },
+  {
+    "id": "num-49",
+    "text": "สี่สิบเก้า",
+    "type": "number"
+  },
+  {
+    "id": "num-50",
+    "text": "ห้าสิบ",
+    "type": "number"
+  },
+  {
+    "id": "num-51",
+    "text": "ห้าสิบเอ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-52",
+    "text": "ห้าสิบสอง",
+    "type": "number"
+  },
+  {
+    "id": "num-53",
+    "text": "ห้าสิบสาม",
+    "type": "number"
+  },
+  {
+    "id": "num-54",
+    "text": "ห้าสิบสี่",
+    "type": "number"
+  },
+  {
+    "id": "num-55",
+    "text": "ห้าสิบห้า",
+    "type": "number"
+  },
+  {
+    "id": "num-56",
+    "text": "ห้าสิบหก",
+    "type": "number"
+  },
+  {
+    "id": "num-57",
+    "text": "ห้าสิบเจ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-58",
+    "text": "ห้าสิบแปด",
+    "type": "number"
+  },
+  {
+    "id": "num-59",
+    "text": "ห้าสิบเก้า",
+    "type": "number"
+  },
+  {
+    "id": "num-60",
+    "text": "หกสิบ",
+    "type": "number"
+  },
+  {
+    "id": "num-61",
+    "text": "หกสิบเอ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-62",
+    "text": "หกสิบสอง",
+    "type": "number"
+  },
+  {
+    "id": "num-63",
+    "text": "หกสิบสาม",
+    "type": "number"
+  },
+  {
+    "id": "num-64",
+    "text": "หกสิบสี่",
+    "type": "number"
+  },
+  {
+    "id": "num-65",
+    "text": "หกสิบห้า",
+    "type": "number"
+  },
+  {
+    "id": "num-66",
+    "text": "หกสิบหก",
+    "type": "number"
+  },
+  {
+    "id": "num-67",
+    "text": "หกสิบเจ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-68",
+    "text": "หกสิบแปด",
+    "type": "number"
+  },
+  {
+    "id": "num-69",
+    "text": "หกสิบเก้า",
+    "type": "number"
+  },
+  {
+    "id": "num-70",
+    "text": "เจ็ดสิบ",
+    "type": "number"
+  },
+  {
+    "id": "num-71",
+    "text": "เจ็ดสิบเอ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-72",
+    "text": "เจ็ดสิบสอง",
+    "type": "number"
+  },
+  {
+    "id": "num-73",
+    "text": "เจ็ดสิบสาม",
+    "type": "number"
+  },
+  {
+    "id": "num-74",
+    "text": "เจ็ดสิบสี่",
+    "type": "number"
+  },
+  {
+    "id": "num-75",
+    "text": "เจ็ดสิบห้า",
+    "type": "number"
+  },
+  {
+    "id": "num-76",
+    "text": "เจ็ดสิบหก",
+    "type": "number"
+  },
+  {
+    "id": "num-77",
+    "text": "เจ็ดสิบเจ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-78",
+    "text": "เจ็ดสิบแปด",
+    "type": "number"
+  },
+  {
+    "id": "num-79",
+    "text": "เจ็ดสิบเก้า",
+    "type": "number"
+  },
+  {
+    "id": "num-80",
+    "text": "แปดสิบ",
+    "type": "number"
+  },
+  {
+    "id": "num-81",
+    "text": "แปดสิบเอ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-82",
+    "text": "แปดสิบสอง",
+    "type": "number"
+  },
+  {
+    "id": "num-83",
+    "text": "แปดสิบสาม",
+    "type": "number"
+  },
+  {
+    "id": "num-84",
+    "text": "แปดสิบสี่",
+    "type": "number"
+  },
+  {
+    "id": "num-85",
+    "text": "แปดสิบห้า",
+    "type": "number"
+  },
+  {
+    "id": "num-86",
+    "text": "แปดสิบหก",
+    "type": "number"
+  },
+  {
+    "id": "num-87",
+    "text": "แปดสิบเจ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-88",
+    "text": "แปดสิบแปด",
+    "type": "number"
+  },
+  {
+    "id": "num-89",
+    "text": "แปดสิบเก้า",
+    "type": "number"
+  },
+  {
+    "id": "num-90",
+    "text": "เก้าสิบ",
+    "type": "number"
+  },
+  {
+    "id": "num-91",
+    "text": "เก้าสิบเอ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-92",
+    "text": "เก้าสิบสอง",
+    "type": "number"
+  },
+  {
+    "id": "num-93",
+    "text": "เก้าสิบสาม",
+    "type": "number"
+  },
+  {
+    "id": "num-94",
+    "text": "เก้าสิบสี่",
+    "type": "number"
+  },
+  {
+    "id": "num-95",
+    "text": "เก้าสิบห้า",
+    "type": "number"
+  },
+  {
+    "id": "num-96",
+    "text": "เก้าสิบหก",
+    "type": "number"
+  },
+  {
+    "id": "num-97",
+    "text": "เก้าสิบเจ็ด",
+    "type": "number"
+  },
+  {
+    "id": "num-98",
+    "text": "เก้าสิบแปด",
+    "type": "number"
+  },
+  {
+    "id": "num-99",
+    "text": "เก้าสิบเก้า",
+    "type": "number"
+  },
+  {
+    "id": "num-100",
+    "text": "หนึ่งร้อย",
+    "type": "number"
+  },
+  {
+    "id": "num-200",
+    "text": "สองร้อย",
+    "type": "number"
+  },
+  {
+    "id": "num-300",
+    "text": "สามร้อย",
+    "type": "number"
+  },
+  {
+    "id": "num-400",
+    "text": "สี่ร้อย",
+    "type": "number"
+  },
+  {
+    "id": "num-500",
+    "text": "ห้าร้อย",
+    "type": "number"
+  },
+  {
+    "id": "num-1000",
+    "text": "หนึ่งพัน",
+    "type": "number"
+  },
+  {
+    "id": "num-1500",
+    "text": "หนึ่งพันห้าร้อย",
+    "type": "number"
+  },
+  {
+    "id": "num-2000",
+    "text": "สองพัน",
+    "type": "number"
+  },
+  {
+    "id": "num-5000",
+    "text": "ห้าพัน",
+    "type": "number"
+  },
+  {
+    "id": "num-10000",
+    "text": "หนึ่งหมื่น",
+    "type": "number"
+  },
+  {
+    "id": "num-100000",
+    "text": "หนึ่งแสน",
+    "type": "number"
+  },
+  {
+    "id": "num-1000000",
+    "text": "หนึ่งล้าน",
+    "type": "number"
+  },
+  {
+    "id": "seg-1",
+    "text": "ทั้งหมด",
+    "type": "segment"
+  },
+  {
+    "id": "seg-2",
+    "text": "ความเคารพ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-3",
+    "text": "สวัสดี",
+    "type": "segment"
+  },
+  {
+    "id": "seg-4",
+    "text": "เงียบๆ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-5",
+    "text": "หน่อย",
+    "type": "segment"
+  },
+  {
+    "id": "seg-6",
+    "text": "กัน",
+    "type": "segment"
+  },
+  {
+    "id": "seg-7",
+    "text": "ได้แล้ว",
+    "type": "segment"
+  },
+  {
+    "id": "seg-8",
+    "text": "มอง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-9",
+    "text": "ที่",
+    "type": "segment"
+  },
+  {
+    "id": "seg-10",
+    "text": "ที่นั่ง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-11",
+    "text": "คุณ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-12",
+    "text": "เดี๋ยวนี้",
+    "type": "segment"
+  },
+  {
+    "id": "seg-13",
+    "text": "โทรศัพท์มือถือ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-14",
+    "text": "ขนม",
+    "type": "segment"
+  },
+  {
+    "id": "seg-15",
+    "text": "ใน",
+    "type": "segment"
+  },
+  {
+    "id": "seg-16",
+    "text": "ขึ้นมา",
+    "type": "segment"
+  },
+  {
+    "id": "seg-17",
+    "text": "ลงไป",
+    "type": "segment"
+  },
+  {
+    "id": "seg-18",
+    "text": "ข้อ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-19",
+    "text": "ถึง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-20",
+    "text": "พร้อมกัน",
+    "type": "segment"
+  },
+  {
+    "id": "seg-21",
+    "text": "ดังๆ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-22",
+    "text": "ตาม",
+    "type": "segment"
+  },
+  {
+    "id": "seg-23",
+    "text": "แบ่ง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-24",
+    "text": "ละ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-25",
+    "text": "คำถาม",
+    "type": "segment"
+  },
+  {
+    "id": "seg-26",
+    "text": "มือ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-27",
+    "text": "หมด",
+    "type": "segment"
+  },
+  {
+    "id": "seg-28",
+    "text": "หัวหน้า",
+    "type": "segment"
+  },
+  {
+    "id": "seg-29",
+    "text": "ขอโทษ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-30",
+    "text": "อยู่",
+    "type": "segment"
+  },
+  {
+    "id": "seg-31",
+    "text": "ผม",
+    "type": "segment"
+  },
+  {
+    "id": "seg-32",
+    "text": "ห้อง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-33",
+    "text": "ไหน",
+    "type": "segment"
+  },
+  {
+    "id": "seg-34",
+    "text": "บ้าง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-35",
+    "text": "เครื่องปริ้นท์",
+    "type": "segment"
+  },
+  {
+    "id": "seg-36",
+    "text": "ใช้งาน",
+    "type": "segment"
+  },
+  {
+    "id": "seg-37",
+    "text": "ยังไง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-38",
+    "text": "เบิก",
+    "type": "segment"
+  },
+  {
+    "id": "seg-39",
+    "text": "ประชุม",
+    "type": "segment"
+  },
+  {
+    "id": "seg-40",
+    "text": "แทน",
+    "type": "segment"
+  },
+  {
+    "id": "seg-41",
+    "text": "เซ็น",
+    "type": "segment"
+  },
+  {
+    "id": "seg-42",
+    "text": "นี้",
+    "type": "segment"
+  },
+  {
+    "id": "seg-43",
+    "text": "ให้หน่อย",
+    "type": "segment"
+  },
+  {
+    "id": "seg-44",
+    "text": "ได้ไหม",
+    "type": "segment"
+  },
+  {
+    "id": "seg-45",
+    "text": "โมง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-46",
+    "text": "บิ๊กซี/โลตัส",
+    "type": "segment"
+  },
+  {
+    "id": "seg-47",
+    "text": "หยิบ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-48",
+    "text": "ขอบคุณ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-49",
+    "text": "ที่รัก",
+    "type": "segment"
+  },
+  {
+    "id": "seg-50",
+    "text": "ลูก",
+    "type": "segment"
+  },
+  {
+    "id": "seg-51",
+    "text": "นอนหลับ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-52",
+    "text": "เดี๋ยว",
+    "type": "segment"
+  },
+  {
+    "id": "seg-53",
+    "text": "เอง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-54",
+    "text": "แป๊บนึง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-55",
+    "text": "ระวัง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-56",
+    "text": "ล้ม",
+    "type": "segment"
+  },
+  {
+    "id": "seg-57",
+    "text": "จับ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-58",
+    "text": "อันนี้",
+    "type": "segment"
+  },
+  {
+    "id": "seg-59",
+    "text": "นิดเดียว",
+    "type": "segment"
+  },
+  {
+    "id": "seg-60",
+    "text": "พอ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-61",
+    "text": "ถุง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-62",
+    "text": "ที่นี่",
+    "type": "segment"
+  },
+  {
+    "id": "seg-63",
+    "text": "เช็คบิล",
+    "type": "segment"
+  },
+  {
+    "id": "seg-64",
+    "text": "สแกน",
+    "type": "segment"
+  },
+  {
+    "id": "seg-65",
+    "text": "พลาสติก",
+    "type": "segment"
+  },
+  {
+    "id": "seg-66",
+    "text": "เปล่า",
+    "type": "segment"
+  },
+  {
+    "id": "seg-67",
+    "text": "โปรโมชั่น",
+    "type": "segment"
+  },
+  {
+    "id": "seg-68",
+    "text": "สบายดี",
+    "type": "segment"
+  },
+  {
+    "id": "seg-69",
+    "text": "เป็นไง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-70",
+    "text": "ว่าง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-71",
+    "text": "กี่โมง",
+    "type": "segment"
+  },
+  {
+    "id": "seg-72",
+    "text": "เลิกงาน",
+    "type": "segment"
+  },
+  {
+    "id": "seg-73",
+    "text": "ว่า",
+    "type": "segment"
+  },
+  {
+    "id": "seg-74",
+    "text": "อีก",
+    "type": "segment"
+  },
+  {
+    "id": "seg-75",
+    "text": "ชื่อ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-76",
+    "text": "เป็น",
+    "type": "segment"
+  },
+  {
+    "id": "seg-77",
+    "text": "แถว",
+    "type": "segment"
+  },
+  {
+    "id": "seg-78",
+    "text": "จาก",
+    "type": "segment"
+  },
+  {
+    "id": "seg-79",
+    "text": "อายุ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-80",
+    "text": "ทำงาน",
+    "type": "segment"
+  },
+  {
+    "id": "seg-81",
+    "text": "คนเดียว",
+    "type": "segment"
+  },
+  {
+    "id": "seg-82",
+    "text": "เหรอ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-83",
+    "text": "นาน",
+    "type": "segment"
+  },
+  {
+    "id": "seg-84",
+    "text": "ภาษาอังกฤษ",
+    "type": "segment"
+  },
+  {
+    "id": "seg-85",
+    "text": "แฟน",
+    "type": "segment"
+  },
+  {
+    "id": "seg-86",
+    "text": "ไลน์",
+    "type": "segment"
+  },
+  {
+    "id": "seg-87",
+    "text": "หรือเปล่า",
+    "type": "segment"
+  },
+  {
+    "id": "seg-88",
+    "text": "เกิด",
+    "type": "segment"
+  },
+  {
+    "id": "seg-89",
+    "text": "ภาษาไทย",
+    "type": "segment"
+  },
+  {
+    "id": "seg-90",
+    "text": "เรียกว่า",
+    "type": "segment"
+  },
+  {
+    "id": "seg-91",
+    "text": "ขอถาม",
+    "type": "segment"
+  },
+  {
+    "id": "seg-92",
+    "text": "ราคา",
+    "type": "segment"
+  },
+  {
+    "id": "seg-93",
+    "text": "กี่บาท",
+    "type": "segment"
+  },
+  {
+    "id": "seg-94",
+    "text": "อัน",
+    "type": "segment"
+  },
+  {
+    "id": "seg-95",
+    "text": "ไกล",
+    "type": "segment"
+  },
+  {
+    "id": "drill-1",
+    "text": "ก",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-2",
+    "text": "ด",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-3",
+    "text": "ต",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-4",
+    "text": "า",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-5",
+    "text": "กา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-6",
+    "text": "ตา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-7",
+    "text": "ดาดา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-8",
+    "text": "บ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-9",
+    "text": "ป",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-10",
+    "text": "จ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-11",
+    "text": "อ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-12",
+    "text": "ปา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-13",
+    "text": "จา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-14",
+    "text": "อา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-15",
+    "text": "ี",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-16",
+    "text": "ู",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-17",
+    "text": "ตี",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-18",
+    "text": "ปู",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-19",
+    "text": "อี",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-20",
+    "text": "อู",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-21",
+    "text": "อีกา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-22",
+    "text": "ตาดี",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-23",
+    "text": "ข",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-24",
+    "text": "ส",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-25",
+    "text": "ห",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-26",
+    "text": "ขา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-27",
+    "text": "สา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-28",
+    "text": "ฉ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-29",
+    "text": "ถ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-30",
+    "text": "ผ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-31",
+    "text": "ฝ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-32",
+    "text": "ผา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-33",
+    "text": "ฝา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-34",
+    "text": "ถู",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-35",
+    "text": "ผี",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-36",
+    "text": "หู",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-37",
+    "text": "ง",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-38",
+    "text": "น",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-39",
+    "text": "ม",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-40",
+    "text": "ร",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-41",
+    "text": "ล",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-42",
+    "text": "ว",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-43",
+    "text": "นา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-44",
+    "text": "รู",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-45",
+    "text": "ค",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-46",
+    "text": "ช",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-47",
+    "text": "พ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-48",
+    "text": "ฟ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-49",
+    "text": "ชา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-50",
+    "text": "ทา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-51",
+    "text": "พา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-52",
+    "text": "ื",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-53",
+    "text": "เ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-54",
+    "text": "เท",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-55",
+    "text": "ถา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-56",
+    "text": "กาง",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-57",
+    "text": "หาง",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-58",
+    "text": "ทาง",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-59",
+    "text": "ขาน",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-60",
+    "text": "การ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-61",
+    "text": "หาร",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-62",
+    "text": "ขาว",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-63",
+    "text": "บาง",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-64",
+    "text": "ลิง",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-65",
+    "text": "ปาก",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-66",
+    "text": "ตาก",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-67",
+    "text": "ฝาก",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-68",
+    "text": "ฉาก",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-69",
+    "text": "ดาบ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-70",
+    "text": "สาบ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-71",
+    "text": "ภาพ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-72",
+    "text": "ขาด",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-73",
+    "text": "หาด",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-74",
+    "text": "กอด",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-75",
+    "text": "หาก",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-76",
+    "text": "ปาน",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-77",
+    "text": "ปาด",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-78",
+    "text": "ะ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-79",
+    "text": "ุ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-80",
+    "text": "กะ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-81",
+    "text": "ปะ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-82",
+    "text": "ดุ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-83",
+    "text": "ั",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-84",
+    "text": "รัก",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-85",
+    "text": "ราก",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-86",
+    "text": "่",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-87",
+    "text": "้",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-88",
+    "text": "ป่า",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-89",
+    "text": "ป้า",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-90",
+    "text": "ตั๋ว",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-91",
+    "text": "ข่า",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-92",
+    "text": "ข้า",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-93",
+    "text": "ค่า",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-94",
+    "text": "ค้า",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-95",
+    "text": "ม่า",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-96",
+    "text": "ม้า",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-97",
+    "text": "กิ่ง",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-98",
+    "text": "ชิ้น",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-99",
+    "text": "เสีย",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-100",
+    "text": "เรือ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-101",
+    "text": "ตัว",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-102",
+    "text": "แ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-103",
+    "text": "โ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-104",
+    "text": "แม่",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-105",
+    "text": "โต",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-106",
+    "text": "แตงโม",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-107",
+    "text": "ใ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-108",
+    "text": "ไ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-109",
+    "text": "ใจ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-110",
+    "text": "เรา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-111",
+    "text": "พวก",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-112",
+    "text": "หма",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-113",
+    "text": "หนัง",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-114",
+    "text": "ใหม่",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-115",
+    "text": "อย่าง",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-116",
+    "text": "นก",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-117",
+    "text": "ทราบ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-118",
+    "text": "์",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-119",
+    "text": "เบียร์",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-120",
+    "text": "การ์ด",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-121",
+    "text": "ๆ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-122",
+    "text": "เร็วๆ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-123",
+    "text": "ต่าง ๆ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-124",
+    "text": "ฤดู",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-125",
+    "text": "ผมชื่อจอห์นผมเป็นคนอเมริกันผมชอบเมืองไทยมาก",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-126",
+    "text": "จอห์น",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-127",
+    "text": "อเมริกัน",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-128",
+    "text": "เมือง",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-129",
+    "text": "ไทย",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-130",
+    "text": "วันนี้เราไปกินข้าวที่ร้านอาหารสั่งต้มยำกุ้งและข้าวผัด",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-131",
+    "text": "ร้านอาหาร",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-132",
+    "text": "ต้ม",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-133",
+    "text": "ยำ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-134",
+    "text": "ข้าวผัด",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-135",
+    "text": "เลี้ยวขวาที่สี่แยกข้างหน้าแล้วตรงไปส่งที่สถานีรถไฟ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-136",
+    "text": "เลี้ยว",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-137",
+    "text": "ขวา",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-138",
+    "text": "ข้างหน้า",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-139",
+    "text": "รถไฟ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-140",
+    "text": "เสื้อตัวนี้ราคาเท่าไหร่ลดหน่อยได้ไหมแปดสิบบาทได้ไหมครับ",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-141",
+    "text": "ตัวนี้",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-142",
+    "text": "บาท",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-143",
+    "text": "ภาษาไทยไม่ยากถ้าเราฝึกอ่านและพิมพ์ทุกวันคุณทำได้แน่นอน",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-144",
+    "text": "ฝึก",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-145",
+    "text": "พิมพ์",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-146",
+    "text": "ทุกวัน",
+    "type": "reading_drill"
+  },
+  {
+    "id": "drill-147",
+    "text": "ทำได้",
+    "type": "reading_drill"
+  }
+]
