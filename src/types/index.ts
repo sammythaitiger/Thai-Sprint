@@ -44,8 +44,8 @@ export interface PatternItem {
   patternThai: string;      // Тайская связка (например: "ต้อง...")
   transcription: string;    // Фонетика связки (dtâawng...)
   meaning: string;          // Функция/Перевод ("Надо / Должен сделать...")
-  subCategory: 'modal' | 'connector' | 'tense' | 'particle';
-  subCategoryLabel: string; // 'Модальные рамки' | 'Связки и логика' | 'Время' | 'Эмоции и частицы'
+  subCategory: 'question' | 'request' | 'ability' | 'desire' | 'tense' | 'degree' | 'connector' | 'particle' | 'modal';
+  subCategoryLabel: string;
   examples: {
     thai: string;
     trans: string;

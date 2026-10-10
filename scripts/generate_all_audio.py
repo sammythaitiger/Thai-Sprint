@@ -8,7 +8,7 @@ VOICE = "th-TH-PremwadeeNeural"
 ALT_VOICE = "th-TH-NiwatNeural"
 RATE = "-10%"
 OUTPUT_DIR = "/Users/samir/Teach Thai/thai-sprint/public/audio"
-TARGETS_FILE = "/Users/samir/Teach Thai/audio_targets.json"
+TARGETS_FILE = "/Users/samir/Teach Thai/thai-sprint/scripts/audio_targets.json"
 MANIFEST_FILE = "/Users/samir/Teach Thai/thai-sprint/src/data/audioManifest.ts"
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)

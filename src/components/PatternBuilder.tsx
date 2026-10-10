@@ -15,139 +15,102 @@ interface CategoryChip {
 
 const CATEGORIES: CategoryChip[] = [
   { key: 'all',       labelKey: 'catAll',       emoji: '📚' },
-  { key: 'modal',     labelKey: 'catModal',     emoji: '🔲' },
-  { key: 'connector', labelKey: 'catConnector', emoji: '🔗' },
+  { key: 'question',  labelKey: 'catQuestion',  emoji: '❓' },
+  { key: 'request',   labelKey: 'catRequest',   emoji: '🙏' },
+  { key: 'ability',   labelKey: 'catAbility',   emoji: '⚡' },
+  { key: 'desire',    labelKey: 'catDesire',    emoji: '🎯' },
   { key: 'tense',     labelKey: 'catTense',     emoji: '⏰' },
+  { key: 'degree',    labelKey: 'catDegree',    emoji: '📊' },
+  { key: 'connector', labelKey: 'catConnector', emoji: '🔗' },
   { key: 'particle',  labelKey: 'catParticle',  emoji: '💬' },
 ];
 
-const ACTION_LABELS_EN: Record<string, string> = {
-  go: 'go',
-  eat: 'eat',
-  teach: 'teach',
-  home: 'home',
-  play: 'play',
-  do: 'do',
-};
-
-const ASSEMBLED_EN: Record<string, Record<string, string>> = {
-  'pattern-1': {
-    go: 'Want to go',
-    eat: 'Want to eat',
-    teach: 'Want to teach',
-    home: 'Want to go home',
-    play: 'Want to play',
-    do: 'Want to do',
-  },
-  'pattern-2': {
-    go: 'Must go / Need to go',
-    eat: 'Must eat',
-    teach: 'Need to teach',
-    home: 'Must go home',
-    play: 'Must play',
-    do: 'Must do',
-  },
-  'pattern-3': {
-    go: 'Can I go?',
-    eat: 'Can I eat?',
-    teach: 'Can you teach?',
-    home: 'Can I go home?',
-    play: 'Can I play?',
-    do: 'Can you do it?',
-  },
-  'pattern-4': {
-    go: "Don't go / Prohibited to go!",
-    eat: "Don't eat!",
-    teach: 'Prohibited to teach!',
-    home: "Don't go home!",
-    play: "Don't play!",
-    do: "Don't do it!",
-  },
-  'pattern-5': {
-    go: 'Have been / went before',
-    eat: 'Have eaten before',
-    teach: 'Have taught before',
-    home: 'Went home before',
-    play: 'Have played before',
-    do: 'Have done before',
-  },
-  'pattern-10': {
-    go: 'Currently going',
-    eat: 'Currently eating',
-    teach: 'Currently teaching',
-    home: 'Currently heading home',
-    play: 'Currently playing',
-    do: 'Currently doing',
-  },
-  'pattern-11': {
-    go: 'Already left',
-    eat: 'Already ate',
-    teach: 'Already taught',
-    home: 'Already went home',
-    play: 'Already played',
-    do: 'Already done',
-  },
-  'pattern-12': {
-    go: 'About to go',
-    eat: 'About to eat',
-    teach: 'About to teach',
-    home: 'About to go home',
-    play: 'About to play',
-    do: 'About to do',
-  },
-  'pattern-13': {
-    go: 'Not gone yet',
-    eat: 'Not eaten yet',
-    teach: 'Not taught yet',
-    home: 'Not gone home yet',
-    play: 'Not played yet',
-    do: 'Not done yet',
-  },
+const PATTERN_CATEGORIES_EN: Record<string, string> = {
+  question: 'Questions & Inquiry',
+  request: 'Requests & Ordering',
+  ability: 'Capability & Permission',
+  desire: 'Desire & Need',
+  tense: 'Tense & Aspects',
+  degree: 'Evaluation & Degree',
+  connector: 'Connectors & Logic',
+  particle: 'Particles & Emotion',
+  modal: 'Modal Frames',
 };
 
 const PATTERN_MEANINGS_EN: Record<string, string> = {
-  'pattern-1': 'Want to do something',
-  'pattern-2': 'Need to / Must do',
-  'pattern-3': 'Can I? / Is it possible?',
-  'pattern-4': 'Do not / Prohibited',
-  'pattern-5': 'Ever done / Used to do',
-  'pattern-6': 'But / However (connects two clauses)',
-  'pattern-7': 'Because (explains reason)',
-  'pattern-8': 'If..., then... (condition)',
-  'pattern-9': 'And then / Afterwards (sequence)',
-  'pattern-10': 'Doing right now (continuous)',
-  'pattern-11': 'Already did (completed action)',
-  'pattern-12': 'About to / Just going to',
-  'pattern-13': 'Not yet / Haven’t done yet',
-  'pattern-14': 'Soft "alright? / okay?" (tag particle)',
-  'pattern-15': 'Urging "come on! / do it!"',
-  'pattern-16': 'Surprise "really? / is that so?"',
-};
-
-const PATTERN_CATEGORIES_EN: Record<string, string> = {
-  modal: 'Modal Frames',
-  connector: 'Connectors & Logic',
-  tense: 'Tense Markers',
-  particle: 'Particles & Emotion',
+  'pattern-q1': 'General yes/no question',
+  'pattern-q2': 'Already or not yet?',
+  'pattern-q3': 'What? / Which?',
+  'pattern-q4': 'Where? / To where?',
+  'pattern-q5': 'How much? / How many?',
+  'pattern-q6': 'How? / In what way?',
+  'pattern-r1': 'Please give me... / May I have...',
+  'pattern-r2': 'Please help / could you please...',
+  'pattern-r3': "I'll take... / No thanks...",
+  'pattern-r4': 'Without... / Do not add...',
+  'pattern-a1': 'Can / Cannot (ability/permission)',
+  'pattern-a2': 'Can I? / Is it possible? (polite)',
+  'pattern-a3': 'Know how to / Cannot (learned skill)',
+  'pattern-a4': 'Do not / Prohibited!',
+  'pattern-a5': "Don't... / Please don't...",
+  'pattern-d1': 'Want to do (action)',
+  'pattern-d2': 'Want to have / get (item)',
+  'pattern-d3': 'Must / Have to / Need to',
+  'pattern-d4': 'No need to / Not necessary',
+  'pattern-t1': 'Doing right now (Present Continuous)',
+  'pattern-t2': 'Already did (completed action)',
+  'pattern-t3': 'Not yet done',
+  'pattern-t4': 'Ever done / Used to do (experience)',
+  'pattern-t5': 'About to / Just going to do',
+  'pattern-deg1': 'Like / Dislike',
+  'pattern-deg2': 'Too... / Excessively...',
+  'pattern-deg3': 'Very... / A little bit...',
+  'pattern-deg4': 'More... than... (comparative)',
+  'pattern-c1': 'But / However (contrast)',
+  'pattern-c2': 'Because (reason)',
+  'pattern-c3': 'If..., then... (condition)',
+  'pattern-c4': 'And then / Afterwards (sequence)',
+  'pattern-p1': 'Soft tag "alright? / okay?"',
+  'pattern-p2': 'Urging "come on! / do it!"',
+  'pattern-p3': 'Surprise "really? / is that so?"',
 };
 
 const PATTERN_EXAMPLES_EN: Record<string, string[]> = {
-  'pattern-1': ['Want to go home', 'Want to drink water', 'Want to go on vacation'],
-  'pattern-2': ['Time to go teach class', 'Need to do this', 'Must focus in class'],
-  'pattern-3': ['Can you help me?', 'Can I go?', 'Can you give a discount?'],
-  'pattern-4': ['Put away your phone!', 'Do not run!', 'Do not make noise!'],
-  'pattern-5': ['Have you ever been there?', 'Never done that', 'Have tried Thai food before'],
-  'pattern-6': ['Want to go, but have no time', 'Delicious, but spicy', 'Cheap, but good'],
-  'pattern-7': ['Late because of traffic', 'Like it because it is fun', 'Tired because it is hot'],
-  'pattern-8': ['If finished, you can leave', 'If it rains, I will not go', 'If hungry, go eat'],
-  'pattern-9': ['Finish teaching, then eat', 'Go to market, then home', 'Take a shower, then sleep'],
-  'pattern-10': ['Currently teaching class', 'Currently doing homework', 'Currently eating'],
-  'pattern-11': ['Already ate', 'Already understand', 'Already finished'],
-  'pattern-12': ['About to go', 'About to call', 'About to do it'],
-  'pattern-13': ['Not finished yet', 'Haven’t eaten yet', 'Haven’t left yet'],
-  'pattern-14': ['Listen to teacher, okay?', 'Focus, alright?', 'Careful, hear me?'],
-  'pattern-15': ['Hurry up!', 'Give it a try!', 'Just tell me!'],
-  'pattern-16': ['Seriously? Really?', 'Do you really like it?', 'Are you really not going?'],
+  'pattern-q1': ['Is it spicy?', 'Do you like it?', 'Shall we go together?'],
+  'pattern-q2': ['Have you eaten yet?', 'Is it finished yet?', 'Have you arrived yet?'],
+  'pattern-q3': ['What is good to eat?', 'What are you doing right now?', 'What is your name?'],
+  'pattern-q4': ['Where is the restroom?', 'Where are you heading?', 'Where are you staying?'],
+  'pattern-q5': ['How much is this one?', 'How much is it altogether?', 'How much per kilo?'],
+  'pattern-q6': ['How to get there?', 'How do you do this?', 'How to pay?'],
+  'pattern-r1': ['A glass of plain water, please', 'Menu, please', 'May I take a look?'],
+  'pattern-r2': ['Please speak slower', 'Please take a photo for me', 'Please grab that for me'],
+  'pattern-r3': ["I'll take this one", 'No plastic bag needed', 'With ice as well, please'],
+  'pattern-r4': ['No chili pepper at all (not spicy)', 'No sugar, please', 'No MSG, please'],
+  'pattern-a1': ['I can eat spicy', 'I cannot go (busy)', 'Can I scan to pay with QR?'],
+  'pattern-a2': ['Can you give a discount?', 'Can I park here?', 'Can you help me?'],
+  'pattern-a3': ['I can speak a little Thai', 'Can you drive a car?', 'I cannot swim'],
+  'pattern-a4': ['No parking here', 'No smoking', 'Phones prohibited!'],
+  'pattern-a5': ["Don't worry / don't overthink", "Don't be late", "Don't forget, okay?"],
+  'pattern-d1': ['Want to go home', 'Want to travel / vacation', 'Want to try eating this'],
+  'pattern-d2': ['Want to get this one', 'Want a discount', 'Want the black color'],
+  'pattern-d3': ['Time to go now', 'How much do I need to pay?', 'Do I have to wait long?'],
+  'pattern-d4': ['No rush / take your time', 'Keep the change', 'Make yourself at home'],
+  'pattern-t1': ['Currently having lunch', 'Currently on the way', 'Currently working'],
+  'pattern-t2': ['Already understood', 'Already full', 'Already finished'],
+  'pattern-t3': ['Not hungry yet', 'Not finished yet', 'Never been there yet'],
+  'pattern-t4': ['Have you ever been to Thailand?', 'Never tried this before', 'We have met before'],
+  'pattern-t5': ['About to go', 'About to call back', 'Coming back soon'],
+  'pattern-deg1': ['Love Thai food', 'Do not like extreme heat', 'Really like this one'],
+  'pattern-deg2': ['Too expensive', 'Too spicy', 'Too far away'],
+  'pattern-deg3': ['Very delicious', 'Very tired', 'Understand just a little bit'],
+  'pattern-deg4': ['Better', 'Cheaper', 'Bigger size'],
+  'pattern-c1': ['Want to go, but have no time', 'Delicious, but spicy', 'Cheap, but good quality'],
+  'pattern-c2': ['Late because of traffic', 'Like it because it is fun', 'Tired because of heat'],
+  'pattern-c3': ['If free, let us go together', 'If it rains, I will not go', 'If hungry, go eat'],
+  'pattern-c4': ['Eat food, then go to work', 'Go to market, then home', 'Take a shower, then sleep'],
+  'pattern-p1': ['Wait here, okay?', 'Careful, hear me?', 'Try your best, alright?'],
+  'pattern-p2': ['Hurry up!', 'Give it a try!', 'Just tell me!'],
+  'pattern-p3': ['Seriously? Really?', 'Do you really like it?', 'Are you really not going?'],
 };
 
 export function PatternBuilder() {
@@ -155,7 +118,7 @@ export function PatternBuilder() {
   const { t } = useTranslation();
 
   const [selectedCategory, setSelectedCategory] = useState<string>('all');
-  const [expandedId, setExpandedId] = useState<string | null>('pattern-1');
+  const [expandedId, setExpandedId] = useState<string | null>('pattern-q1');
   const [activeActions, setActiveActions] = useState<Record<string, string>>({});
 
   const filteredPatterns = PATTERNS_DATA.filter((item) => {
@@ -242,9 +205,7 @@ export function PatternBuilder() {
             : item.meaning;
 
           const assembledTranslation = assembled
-            ? (language === 'en'
-                ? (ASSEMBLED_EN[item.id]?.[currentActionId] || assembled.ru)
-                : assembled.ru)
+            ? (language === 'en' ? assembled.en : assembled.ru)
             : null;
 
           return (
@@ -322,9 +283,7 @@ export function PatternBuilder() {
                       <div className="flex flex-wrap gap-1.5 mb-3">
                         {BUILDER_ACTIONS.map((action) => {
                           const isSelected = currentActionId === action.id;
-                          const actionLabel = language === 'en'
-                            ? (ACTION_LABELS_EN[action.id] || action.label)
-                            : action.label;
+                          const actionLabel = language === 'en' ? action.labelEn : action.label;
 
                           return (
                             <button
@@ -415,7 +374,7 @@ export function PatternBuilder() {
                                 {ex.thai}
                               </p>
                               <p className="text-xs font-mono italic text-indigo-600 mt-0.5">
-                                {ex.trans}
+                                [{ex.trans}]
                               </p>
                               <p className="text-xs font-medium text-slate-600 mt-1">
                                 {exampleTranslation}

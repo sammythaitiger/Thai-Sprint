@@ -5188,5 +5188,1225 @@
     "id": "drill-147",
     "text": "ทำได้",
     "type": "reading_drill"
+  },
+  {
+    "id": "pex-1",
+    "text": "อยากไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-2",
+    "text": "อยากกิน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-3",
+    "text": "อยากดื่ม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-4",
+    "text": "อยากซื้อ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-5",
+    "text": "อยากลอง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-6",
+    "text": "อยากพูด",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-7",
+    "text": "อยากทำ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-8",
+    "text": "อยากรอ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-9",
+    "text": "อยากจ่าย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-10",
+    "text": "อยากช่วย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-11",
+    "text": "ต้องไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-12",
+    "text": "ต้องกิน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-13",
+    "text": "ต้องดื่ม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-14",
+    "text": "ต้องซื้อ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-15",
+    "text": "ต้องลอง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-16",
+    "text": "ต้องพูด",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-17",
+    "text": "ต้องทำ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-18",
+    "text": "ต้องรอ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-19",
+    "text": "ต้องจ่าย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-20",
+    "text": "ต้องช่วย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-21",
+    "text": "ไม่ต้องไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-22",
+    "text": "ไม่ต้องกิน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-23",
+    "text": "ไม่ต้องดื่ม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-24",
+    "text": "ไม่ต้องซื้อ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-25",
+    "text": "ไม่ต้องลอง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-26",
+    "text": "ไม่ต้องพูด",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-27",
+    "text": "ไม่ต้องทำ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-28",
+    "text": "ไม่ต้องรอ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-29",
+    "text": "ไม่ต้องจ่าย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-30",
+    "text": "ไม่ต้องช่วย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-31",
+    "text": "ไปได้",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-32",
+    "text": "กินได้",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-33",
+    "text": "ดื่มได้",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-34",
+    "text": "ซื้อได้",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-35",
+    "text": "ลองได้",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-36",
+    "text": "พูดได้",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-37",
+    "text": "รอได้",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-38",
+    "text": "จ่ายได้",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-39",
+    "text": "ช่วยได้",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-40",
+    "text": "ไปได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-41",
+    "text": "กินได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-42",
+    "text": "ดื่มได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-43",
+    "text": "ซื้อได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-44",
+    "text": "ลองได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-45",
+    "text": "พูดได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-46",
+    "text": "ทำได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-47",
+    "text": "รอได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-48",
+    "text": "จ่ายได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-49",
+    "text": "ช่วยได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-50",
+    "text": "ห้ามไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-51",
+    "text": "ห้ามกิน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-52",
+    "text": "ห้ามดื่ม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-53",
+    "text": "ห้ามซื้อ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-54",
+    "text": "ห้ามลอง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-55",
+    "text": "ห้ามพูด",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-56",
+    "text": "ห้ามทำ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-57",
+    "text": "ห้ามรอ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-58",
+    "text": "ห้ามจ่าย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-59",
+    "text": "ห้ามช่วย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-60",
+    "text": "ไปไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-61",
+    "text": "กินไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-62",
+    "text": "ดื่มไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-63",
+    "text": "ซื้อไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-64",
+    "text": "ลองไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-65",
+    "text": "พูดไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-66",
+    "text": "ทำไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-67",
+    "text": "รอไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-68",
+    "text": "จ่ายไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-69",
+    "text": "ช่วยไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-70",
+    "text": "ไปหรือยัง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-71",
+    "text": "กินหรือยัง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-72",
+    "text": "ดื่มหรือยัง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-73",
+    "text": "ซื้อหรือยัง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-74",
+    "text": "ลองหรือยัง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-75",
+    "text": "พูดหรือยัง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-76",
+    "text": "ทำหรือยัง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-77",
+    "text": "รอหรือยัง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-78",
+    "text": "จ่ายหรือยัง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-79",
+    "text": "ช่วยหรือยัง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-80",
+    "text": "กำลังไปอยู่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-81",
+    "text": "กำลังกินอยู่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-82",
+    "text": "กำลังดื่มอยู่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-83",
+    "text": "กำลังซื้ออยู่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-84",
+    "text": "กำลังลองอยู่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-85",
+    "text": "กำลังพูดอยู่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-86",
+    "text": "กำลังทำอยู่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-87",
+    "text": "กำลังรออยู่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-88",
+    "text": "กำลังจ่ายอยู่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-89",
+    "text": "กำลังช่วยอยู่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-90",
+    "text": "ไปแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-91",
+    "text": "กินแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-92",
+    "text": "ดื่มแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-93",
+    "text": "ซื้อแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-94",
+    "text": "ลองแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-95",
+    "text": "พูดแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-96",
+    "text": "ทำแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-97",
+    "text": "รอแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-98",
+    "text": "จ่ายแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-99",
+    "text": "ช่วยแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-100",
+    "text": "ยังไม่ไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-101",
+    "text": "ยังไม่กิน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-102",
+    "text": "ยังไม่ดื่ม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-103",
+    "text": "ยังไม่ซื้อ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-104",
+    "text": "ยังไม่ลอง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-105",
+    "text": "ยังไม่พูด",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-106",
+    "text": "ยังไม่ทำ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-107",
+    "text": "ยังไม่รอ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-108",
+    "text": "ยังไม่จ่าย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-109",
+    "text": "ยังไม่ช่วย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-110",
+    "text": "เคยไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-111",
+    "text": "เคยกิน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-112",
+    "text": "เคยดื่ม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-113",
+    "text": "เคยซื้อ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-114",
+    "text": "เคยลอง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-115",
+    "text": "เคยพูด",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-116",
+    "text": "เคยทำ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-117",
+    "text": "เคยรอ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-118",
+    "text": "เคยจ่าย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-119",
+    "text": "เคยช่วย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-120",
+    "text": "ขอไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-121",
+    "text": "ขอกิน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-122",
+    "text": "ขอดื่ม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-123",
+    "text": "ขอซื้อ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-124",
+    "text": "ขอลอง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-125",
+    "text": "ขอพูด",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-126",
+    "text": "ขอทำ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-127",
+    "text": "ขอรอ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-128",
+    "text": "ขอจ่าย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-129",
+    "text": "ขอช่วย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-130",
+    "text": "ชอบไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-131",
+    "text": "ชอบกิน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-132",
+    "text": "ชอบดื่ม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-133",
+    "text": "ชอบซื้อ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-134",
+    "text": "ชอบลอง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-135",
+    "text": "ชอบพูด",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-136",
+    "text": "ชอบทำ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-137",
+    "text": "ชอบรอ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-138",
+    "text": "ชอบจ่าย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-139",
+    "text": "ชอบช่วย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-140",
+    "text": "เผ็ดไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-141",
+    "text": "ชอบไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-142",
+    "text": "ไปด้วยกันไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-143",
+    "text": "กินข้าวหรือยัง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-144",
+    "text": "เสร็จหรือยัง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-145",
+    "text": "ถึงหรือยัง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-146",
+    "text": "กินอะไรดี",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-147",
+    "text": "ทำอะไรอยู่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-148",
+    "text": "ชื่ออะไรครับ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-149",
+    "text": "ห้องน้ำอยู่ที่ไหน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-150",
+    "text": "จะไปที่ไหน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-151",
+    "text": "พักที่ไหน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-152",
+    "text": "อันนี้เท่าไหร่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-153",
+    "text": "ทั้งหมดเท่าไหร่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-154",
+    "text": "กิโลละเท่าไหร่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-155",
+    "text": "ไปยังไง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-156",
+    "text": "ทำยังไง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-157",
+    "text": "จ่ายเงินยังไง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-158",
+    "text": "ขอน้ำเปล่าแก้วหนึ่ง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-159",
+    "text": "ขอเมนูหน่อยครับ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-160",
+    "text": "ขอดูหน่อย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-161",
+    "text": "ช่วยพูดช้าๆ หน่อย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-162",
+    "text": "ช่วยถ่ายรูปให้หน่อย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-163",
+    "text": "ช่วยหยิบให้หน่อย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-164",
+    "text": "เอาอันนี้ครับ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-165",
+    "text": "ไม่เอาถุงครับ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-166",
+    "text": "เอาน้ำแข็งด้วย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-167",
+    "text": "ไม่ใส่พริก",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-168",
+    "text": "ไม่ใส่น้ำตาล",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-169",
+    "text": "ไม่ใส่ผงชูรส",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-170",
+    "text": "กินเผ็ดได้",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-171",
+    "text": "ไปไม่ได้ครับ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-172",
+    "text": "สแกนจ่ายได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-173",
+    "text": "ลดราคาได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-174",
+    "text": "จอดตรงนี้ได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-175",
+    "text": "ช่วยหน่อยได้ไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-176",
+    "text": "พูดไทยเป็นนิดหน่อย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-177",
+    "text": "ขับรถเป็นไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-178",
+    "text": "ว่ายน้ำไม่เป็น",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-179",
+    "text": "ห้ามจอดรถ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-180",
+    "text": "ห้ามสูบบุหรี่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-181",
+    "text": "ห้ามเล่นโทรศัพท์",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-182",
+    "text": "อย่าคิดมาก",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-183",
+    "text": "อย่าไปสาย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-184",
+    "text": "อย่าลืมนะ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-185",
+    "text": "อยากกลับบ้าน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-186",
+    "text": "อยากไปเที่ยว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-187",
+    "text": "อยากลองกิน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-188",
+    "text": "อยากได้อันนี้",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-189",
+    "text": "อยากได้ส่วนลด",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-190",
+    "text": "อยากได้สีดำ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-191",
+    "text": "ต้องไปแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-192",
+    "text": "ต้องจ่ายเท่าไหร่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-193",
+    "text": "ต้องรอนานไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-194",
+    "text": "ไม่ต้องรีบ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-195",
+    "text": "ไม่ต้องทอน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-196",
+    "text": "ไม่ต้องเกรงใจ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-197",
+    "text": "กำลังกินข้าวอยู่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-198",
+    "text": "กำลังไปครับ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-199",
+    "text": "กำลังทำงานอยู่",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-200",
+    "text": "เข้าใจแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-201",
+    "text": "อิ่มแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-202",
+    "text": "เสร็จแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-203",
+    "text": "ยังไม่หิว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-204",
+    "text": "ยังไม่เสร็จ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-205",
+    "text": "ยังไม่เคยไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-206",
+    "text": "เคยไปเมืองไทยไหม",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-207",
+    "text": "ไม่เคยลอง",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-208",
+    "text": "เคยเจอกันแล้ว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-209",
+    "text": "เดี๋ยวจะไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-210",
+    "text": "เดี๋ยวจะโทรหา",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-211",
+    "text": "เดี๋ยวจะกลับ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-212",
+    "text": "ชอบอาหารไทย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-213",
+    "text": "ไม่ชอบอากาศร้อน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-214",
+    "text": "ชอบอันนี้มาก",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-215",
+    "text": "แพงเกินไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-216",
+    "text": "เผ็ดเกินไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-217",
+    "text": "ไกลเกินไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-218",
+    "text": "อร่อยมาก",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-219",
+    "text": "เหนื่อยมาก",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-220",
+    "text": "เข้าใจนิดหน่อย",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-221",
+    "text": "ดีกว่า",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-222",
+    "text": "ถูกกว่า",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-223",
+    "text": "ใหญ่กว่า",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-224",
+    "text": "อยากไป แต่ว่าไม่มีเวลา",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-225",
+    "text": "อร่อย แต่ว่าเผ็ด",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-226",
+    "text": "ถูก แต่ว่าดี",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-227",
+    "text": "มาสาย เพราะว่ารถติด",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-228",
+    "text": "ชอบ เพราะว่าสนุก",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-229",
+    "text": "เหนื่อย เพราะว่าร้อน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-230",
+    "text": "ถ้าว่าง ก็ไปด้วยกัน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-231",
+    "text": "ถ้าฝนตก ก็ไม่ไป",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-232",
+    "text": "ถ้าหิว ก็กินข้าว",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-233",
+    "text": "กินข้าว แล้วก็ไปทำงาน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-234",
+    "text": "ไปตลาด แล้วก็กลับบ้าน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-235",
+    "text": "อาบน้ำ แล้วก็นอน",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-236",
+    "text": "รอนี่นะ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-237",
+    "text": "ระวังนะ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-238",
+    "text": "ตั้งใจนะ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-239",
+    "text": "เร็วๆ สิ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-240",
+    "text": "ลองดูสิ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-241",
+    "text": "บอกมาสิ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-242",
+    "text": "จริงหรอ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-243",
+    "text": "ชอบหรอ",
+    "type": "pattern_example"
+  },
+  {
+    "id": "pex-244",
+    "text": "ไม่ไปหรอ",
+    "type": "pattern_example"
   }
 ]

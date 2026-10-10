@@ -1,12 +1,23 @@
 const fs = require('fs');
 const path = require('path');
 
-const projectDir = path.join(__dirname, 'thai-sprint');
+// Determine project directory
+let projectDir = path.resolve(__dirname, '..');
+if (!fs.existsSync(path.join(projectDir, 'src/data/phrases.ts'))) {
+  projectDir = path.resolve(__dirname, 'thai-sprint');
+}
+if (!fs.existsSync(path.join(projectDir, 'src/data/phrases.ts'))) {
+  projectDir = process.cwd();
+}
+
+console.log('Project Directory:', projectDir);
+
 const phrasesFile = path.join(projectDir, 'src/data/phrases.ts');
 const wordsFile = path.join(projectDir, 'src/data/words.ts');
 const breakdownsFile = path.join(projectDir, 'src/data/wordBreakdowns.ts');
 const readingFile = path.join(projectDir, 'src/data/readingLessons.ts');
 const numbersFile = path.join(projectDir, 'src/utils/thaiNumbers.ts');
+const patternsFile = path.join(projectDir, 'src/data/patterns.ts');
 
 const targets = [];
 const seenIds = new Set();
@@ -17,7 +28,6 @@ function addTarget(id, text, type = 'phrase') {
   const cleanText = text.trim();
   if (!cleanText) return;
   if (seenIds.has(id)) {
-    console.warn(`Duplicate ID: ${id}`);
     return;
   }
   seenIds.add(id);
@@ -65,7 +75,6 @@ const digits = [
 digits.forEach(d => addTarget(d.id, d.thai, 'digit'));
 
 // 5. Numbers 1 to 100
-// Thai number generator logic
 const ONES = ['', 'หนึ่ง', 'สอง', 'สาม', 'สี่', 'ห้า', 'หก', 'เจ็ด', 'แปด', 'เก้า'];
 function getThaiNum(n) {
   if (n === 0) return 'ศูนย์';
@@ -104,7 +113,7 @@ const scales = [
 ];
 scales.forEach(s => addTarget(s.id, s.thai, 'number'));
 
-// 6. Word breakdowns segments (if not already covered)
+// 6. Word breakdowns segments
 const breakdownsContent = fs.readFileSync(breakdownsFile, 'utf8');
 const segRegex = /{\s*thai:\s*['"]([^'"]+)['"]/g;
 let breakIdx = 1;
@@ -115,24 +124,45 @@ while ((m = segRegex.exec(breakdownsContent)) !== null) {
   }
 }
 
-// 7. Reading lesson words/syllables (if not already covered)
+// 7. Reading lesson words/syllables
 const readingContent = fs.readFileSync(readingFile, 'utf8');
 const readWordRegex = /thai:\s*['"]([^'"]+)['"]/g;
 let drillIdx = 1;
 while ((m = readWordRegex.exec(readingContent)) !== null) {
   const text = m[1].trim();
-  // Filter out any pure punctuation or non-Thai
   if (/[\u0E00-\u0E7F]/.test(text) && !seenText.has(text)) {
     addTarget(`drill-${drillIdx++}`, text, 'reading_drill');
+  }
+}
+
+// 8. Patterns Examples and Assembled Phrases
+if (fs.existsSync(patternsFile)) {
+  const patternsContent = fs.readFileSync(patternsFile, 'utf8');
+  
+  // Extract pattern examples
+  const exRegex = /{\s*thai:\s*['"]([^'"]+)['"],\s*trans:\s*['"]([^'"]+)['"],\s*ru:\s*['"]([^'"]+)['"]/g;
+  let exIdx = 1;
+  while ((m = exRegex.exec(patternsContent)) !== null) {
+    const text = m[1].trim();
+    if (!seenText.has(text)) {
+      addTarget(`pex-${exIdx++}`, text, 'pattern_example');
+    }
+  }
+
+  // Extract assembled phrases from ASSEMBLED_PHRASES
+  const asmRegex = /{\s*thai:\s*['"]([^'"]+)['"],\s*trans:\s*['"]([^'"]+)['"],\s*ru:\s*['"]([^'"]+)['"],\s*en:\s*['"]([^'"]+)['"]/g;
+  let asmIdx = 1;
+  while ((m = asmRegex.exec(patternsContent)) !== null) {
+    const text = m[1].trim();
+    if (!seenText.has(text)) {
+      addTarget(`pasm-${asmIdx++}`, text, 'pattern_assembled');
+    }
   }
 }
 
 console.log(`Total audio targets extracted: ${targets.length}`);
 console.log(`Unique Thai texts: ${seenText.size}`);
 
-fs.writeFileSync(
-  path.join(__dirname, 'audio_targets.json'),
-  JSON.stringify(targets, null, 2),
-  'utf8'
-);
-console.log('Saved to audio_targets.json');
+const outputPath = path.join(projectDir, 'scripts/audio_targets.json');
+fs.writeFileSync(outputPath, JSON.stringify(targets, null, 2), 'utf8');
+console.log('Saved to', outputPath);
